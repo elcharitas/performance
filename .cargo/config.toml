@@ -1,2 +1,0 @@
-[alias]
-benchmark = "bench && cp target/criterion/report/index.html report.html"
